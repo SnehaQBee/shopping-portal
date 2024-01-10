@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopping-portal/static/css/main.fd53e64c.css",
+    "main.js": "/shopping-portal/static/js/main.b19ddc6b.js",
+    "static/js/787.96555393.chunk.js": "/shopping-portal/static/js/787.96555393.chunk.js",
+    "static/media/placeholder.png": "/shopping-portal/static/media/placeholder.ea0238f6d4d418f836c7.png",
+    "static/media/product-2.png": "/shopping-portal/static/media/product-2.a8ee70c3d174e27bf03d.png",
+    "static/media/product-5.png": "/shopping-portal/static/media/product-5.4c1c1247866d8077a594.png",
+    "static/media/product-6.png": "/shopping-portal/static/media/product-6.27a333b7fa4a41e69345.png",
+    "static/media/product-4.png": "/shopping-portal/static/media/product-4.6c2f9dd3acaff615cfa9.png",
+    "static/media/product-3.png": "/shopping-portal/static/media/product-3.ecc71f2f7ae995510300.png",
+    "static/media/product-1.png": "/shopping-portal/static/media/product-1.54fae55b74aeb3b929dc.png",
+    "index.html": "/shopping-portal/index.html",
+    "main.fd53e64c.css.map": "/shopping-portal/static/css/main.fd53e64c.css.map",
+    "main.b19ddc6b.js.map": "/shopping-portal/static/js/main.b19ddc6b.js.map",
+    "787.96555393.chunk.js.map": "/shopping-portal/static/js/787.96555393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd53e64c.css",
+    "static/js/main.b19ddc6b.js"
+  ]
+}

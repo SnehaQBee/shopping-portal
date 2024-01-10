@@ -27,7 +27,7 @@ class App extends Component {
           <NavBar />
             {/* react-router-dom */}
             <Routes>
-              
+              <Route path="/shopping-portal" element={<Catalog/>} />
               <Route path="/catalog" element={<Catalog/>} />
               <Route path="/cart" element={<Cart/>} />
               {/*<Route exact path="/" component={ProductList} />

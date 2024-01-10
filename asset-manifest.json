@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopping-portal/static/css/main.fd53e64c.css",
-    "main.js": "/shopping-portal/static/js/main.b19ddc6b.js",
+    "main.js": "/shopping-portal/static/js/main.2b500023.js",
     "static/js/787.96555393.chunk.js": "/shopping-portal/static/js/787.96555393.chunk.js",
     "static/media/placeholder.png": "/shopping-portal/static/media/placeholder.ea0238f6d4d418f836c7.png",
     "static/media/product-2.png": "/shopping-portal/static/media/product-2.a8ee70c3d174e27bf03d.png",
@@ -12,11 +12,11 @@
     "static/media/product-1.png": "/shopping-portal/static/media/product-1.54fae55b74aeb3b929dc.png",
     "index.html": "/shopping-portal/index.html",
     "main.fd53e64c.css.map": "/shopping-portal/static/css/main.fd53e64c.css.map",
-    "main.b19ddc6b.js.map": "/shopping-portal/static/js/main.b19ddc6b.js.map",
+    "main.2b500023.js.map": "/shopping-portal/static/js/main.2b500023.js.map",
     "787.96555393.chunk.js.map": "/shopping-portal/static/js/787.96555393.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd53e64c.css",
-    "static/js/main.b19ddc6b.js"
+    "static/js/main.2b500023.js"
   ]
 }
